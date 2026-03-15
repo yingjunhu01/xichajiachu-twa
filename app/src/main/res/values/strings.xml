@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">喜茶家厨</string>
+    <string name="asset_statements" translatable="false">
+        [{
+            "relation": ["delegate_permission/common.handle_all_urls"],
+            "target": {
+                "namespace": "web",
+                "site": "http://47.95.179.240"
+            }
+        }]
+    </string>
+</resources>
